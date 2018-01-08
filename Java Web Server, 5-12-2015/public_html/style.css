@@ -1,0 +1,44 @@
+html, body {
+	margin: 0px;
+	padding: 0px;
+	background-color: white;
+	color: black;
+}
+
+nav {
+	display: block;
+	background-color: #770022;
+	color: white;
+	font: 12px monospace;
+	padding: 4px;
+}
+
+nav a {
+	display: inline-block;
+	padding-left: 10px;
+	padding-right: 10px;
+	color: white;
+	text-decoration: none;
+}
+
+nav a:hover {
+	text-decoration: underline;
+}
+
+header {
+	display: block;
+	font: bold 20px serif;
+	text-align: center;
+}
+
+form {
+	display: block;
+	width: 200px;
+	margin: 10px auto 10px auto;
+	border: 1px solid black;
+	border-radius: 5px;
+	padding: 10px;
+	font: 14px sans-serif;
+	text-align: center;
+	line-height: 250%;
+}

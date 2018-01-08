@@ -1,0 +1,34 @@
+text/css    css
+text/csv    csv
+text/html   htm  html
+text/plain  txt
+
+image/gif      gif
+image/jpeg     jpeg  jpg
+image/png      png
+image/svg+xml  svg
+image/x-icon   ico
+
+audio/mp4       m4a
+audio/mpeg      mp3  mpeg
+audio/vnd.wave  wav  wave
+
+video/mp4    mp4
+video/x-flv  flv
+
+application/ecmascript        es
+application/font-woff         woff
+application/javascript        js
+application/json              json
+application/ogg               ogg
+application/pdf               pdf
+application/rss+xml           rss
+application/xhtml+xml         xht  xhtml
+application/xml               xml
+application/xml-dtd           dtd
+application/zip               zip
+application/x-7z-compressed   7z
+application/x-font-ttf        ttf  dfont
+application/x-latex           tex
+application/x-rar-compressed  rar
+application/x-tar             tar

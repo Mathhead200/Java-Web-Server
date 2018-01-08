@@ -1,0 +1,8 @@
+exception=java.io.IOException: Cannot run program "zzz": CreateProcess error=2, The system cannot find the file specified
+server_name=TEST
+name=zzz
+exit_code=
+threads=1
+prgm=zzz
+status=error
+

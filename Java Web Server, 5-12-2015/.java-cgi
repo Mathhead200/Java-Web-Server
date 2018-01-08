@@ -1,0 +1,9 @@
+./JavaCGI.jar
+./
+
+java_cgi.AddNums  /addnums.fake-cgi  /AddNums.cgi
+java_cgi.Dump     /dump.fake-cgi     /Dump.cgi
+java_cgi.Bad      /bad.fake-cgi      /Bad.cgi
+java_cgi.Halt     /halt.fake-cgi     /Halt.cgi
+
+com.mathhead200.msd.SubmitJob  /SubmitJob.cgi
